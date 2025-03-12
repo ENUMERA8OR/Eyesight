@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import styles from '../styles/globals.css'; // Optional: If you add styling
 
 export default function TabataTimer() {
   const WORKOUT_TIME = 1200; // 20 minutes in seconds
