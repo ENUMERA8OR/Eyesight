@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
 export default function TabataTimer() {
-  const WORKOUT_TIME = 1200; // 20 minutes in seconds
+  const WORKOUT_TIME = 10; // 20 minutes in seconds
   const REST_TIME = 20;
   const TOTAL_ROUNDS = 100;
 
