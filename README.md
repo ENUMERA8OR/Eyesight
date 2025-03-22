@@ -1,4 +1,4 @@
-# Tabata Timer Web
+# Eyesight 20/20/20 protocol
 
 A web-based Tabata Timer built with Next.js, hosted on Vercel. Features a workout timer with rounds, rest periods, and browser notifications.
 
